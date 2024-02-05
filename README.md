@@ -1,1 +1,1 @@
-# gettraining
+# gittraining
